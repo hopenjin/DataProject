@@ -6,7 +6,7 @@
 ###  [1. Customer Booking Prediction from Expedia Clickstream Data](https://github.com/hopenjin/DataProject/blob/master/Hongpeng%20Jin_Project_Customer%20Booking%20Prediction%20from%20Expedia%20Clickstream%20Data.ipynb)
 ###  [2. Sentiment Classification of Yelp Reviews](https://github.com/hopenjin/DataProject/blob/master/Hongpeng%20Jin_Project_Sentiment%20Classification%20of%20Yelp%20Reviews.ipynb)
 ###  [3. A NLP Content-Based Recommender Systems Using Word2Vec](https://github.com/hopenjin/DataProject/blob/master/Hongpeng%20Jin_Project_A%20NLP%20Content-Based%20Recommender%20Systems%20%26%20Word2Vec.ipynb)
-###  [4. A Product Recommendation System using Word2Vec](https://github.com/hopenjin/DataProject/blob/master/Hongpeng%20Jin_Project_A%20Product%20Recommendation%20System%20using%20Word2vec.ipynb)
+###  [4. A Product Recommendation System built by User Purchase Histroy using Word2Vec](https://github.com/hopenjin/DataProject/blob/master/Hongpeng%20Jin_Project_A%20Product%20Recommendation%20System%20using%20Word2vec.ipynb)
 
 
 
