@@ -12,12 +12,12 @@
 
 <br><br><br>
 # My Learning Material List
-[1. Linear Algebra With Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
-[2. 120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
-[3. data science interview questions and answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
-[4. Statistical learning method](https://github.com/fengdu78/lihang-code)
-[5. D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en)
-[6. What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
+[1. Linear Algebra With Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)<br>
+[2. 120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)<br>
+[3. data science interview questions and answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)<br>
+[4. Statistical learning method](https://github.com/fengdu78/lihang-code)<br>
+[5. D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en)<br>
+[6. What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)<br>
 [7. Made With ML](https://madewithml.com/)
 
 
