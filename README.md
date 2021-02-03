@@ -20,5 +20,4 @@
 [6. What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)<br>
 [7. Made With ML](https://madewithml.com/)
 
-
 ![Optional Text](../master/setYouAsDataScienist.png)
