@@ -18,8 +18,7 @@
 ####  [4. Statistical learning method](https://github.com/fengdu78/lihang-code)
 ####  [5. D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en)
 ####  [6. What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
-
-
+####  [7. Made With ML](https://madewithml.com/)
 
 
 ![Optional Text](../master/setYouAsDataScienist.png)
