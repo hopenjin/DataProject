@@ -21,5 +21,7 @@
 7. [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)<br>
 8. [Made With ML](https://madewithml.com/)<br>
 9. [Fast.ai learning stuff](https://www.fast.ai/)<br>
+10. [machine learning roadmap](https://github.com/mrdbourke/machine-learning-roadmap)<br>
+
 
 ![Optional Text](../master/setYouAsDataScienist.png)
